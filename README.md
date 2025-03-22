@@ -20,13 +20,13 @@ Este projeto implementa um cron simples em Golang que consulta um banco de dados
 1.  Clone o repositório:
 
     ```bash
-    git clone <URL do repositório>
+    git clone https://github.com/mthpedrosa/EagleChat-Cron-de-Sessoes
     ```
 
 2.  Navegue até o diretório do projeto:
 
     ```bash
-    cd <nome do diretório>
+    cd EagleChat-Cron-de-Sessoes
     ```
 
 3.  Instale as dependências:
